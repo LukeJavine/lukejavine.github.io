@@ -1,0 +1,8 @@
+theme: minima
+title: "Title"
+author: "Luke Javine"
+url: "https://lukejavine.github.io"
+locale: "en-US"
+
+minima:
+  skin: auto
